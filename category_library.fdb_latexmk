@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1529134465 "category_library.dvi" "category_library.pdf" "category_library" 1529134470
-  "category_library.dvi" 1529134464 7068 33549e7558eeda60d6d80fea8159ffeb "latex"
+["dvipdf"] 1531659258 "category_library.dvi" "category_library.pdf" "category_library" 1531659266
+  "category_library.dvi" 1531659257 7340 2c8d3409ca569fc51b4be65347d7257c "latex"
   (generated)
   "category_library.pdf"
-["latex"] 1529134457 "category_library.tex" "category_library.dvi" "category_library" 1529134470
+["latex"] 1531659242 "category_library.tex" "category_library.dvi" "category_library" 1531659266
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1519818042 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1519818042 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1519818042 856 7404843a5f798859944d7973a47821d5 ""
@@ -122,10 +122,10 @@
   "c:/w32tex/share/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1520730895 6061 1242b5308ecb0db77c71c1ff6c687ace ""
   "c:/w32tex/share/texmf-dist/web2c/eptex/platex.fmt" 1528355789 4474792 019e5f4ec5dab2ed7af2689700cad76c ""
   "c:/w32tex/share/texmf-dist/web2c/texmf.cnf" 1526105313 32626 d522074c185eaea9ed8e92f6a7f22f1d ""
-  "category_library.aux" 1529134464 45 24455a66ec2e25162df2fd3c15a664b6 ""
-  "category_library.tex" 1529134368 5715 9c8e66cf1f136e7470a1fc7a31992f63 ""
+  "category_library.aux" 1531659257 45 24455a66ec2e25162df2fd3c15a664b6 ""
+  "category_library.tex" 1531659215 5951 b88e263992bfb8a100fd106a03d9aff2 ""
   "mymacros.sty" 1527380573 377 f5da3ccaab257db732b282d833feb53f ""
   (generated)
-  "category_library.dvi"
-  "category_library.log"
   "category_library.aux"
+  "category_library.log"
+  "category_library.dvi"
